@@ -1,4 +1,4 @@
-# Slide: Interventieontwikkeling in drie labs
+# Slide: Interventie-ontwikkeling in drie labs
 
 ## Beschrijving
 
